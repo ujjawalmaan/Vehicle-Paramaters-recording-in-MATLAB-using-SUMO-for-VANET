@@ -1,0 +1,11 @@
+<configuration>
+    <input>
+        <net-file value="network.net.xml"/>
+        <route-files value="vehicle.rou.xml"/>
+    </input>
+    <time>
+        <begin value="0"/>
+        <end value="100"/>
+        <step-length value="0.4"/>
+    </time>
+</configuration>
